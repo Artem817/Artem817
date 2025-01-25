@@ -1,8 +1,8 @@
 👋 Hi there!
-<!--
-I'am a Software Engineering student constantly improving my programming skills. My primary goal is to excel in Python Development and achieve a high level of proficiency in this field, focusing on building robust applications, solving real-world problems with data, and mastering algorithms.
 
-### My Interests & Skills  
+I am a Software Engineering student constantly improving my programming skills. My primary goal is to excel in **Python Development** and achieve a high level of proficiency in this field, focusing on building robust applications, solving real-world problems with data, and mastering algorithms.
+
+### 🌟 My Interests & Skills  
 Here are the technologies and areas I’m passionate about:
 
 - **Python** 🐍  
@@ -15,7 +15,7 @@ Here are the technologies and areas I’m passionate about:
 - **Algorithms** ⚙️  
 - **Statistics** 📈  
 
-I’m always eager to learn more and apply my knowledge to real-world projects. 
+I’m always eager to learn more and apply my knowledge to real-world projects.  
 
 💡 **Let’s connect!**  
 Feel free to reach out if you want to discuss programming, collaborate on a project, or simply exchange ideas. I’m always open to new opportunities and interesting conversations!
@@ -24,4 +24,3 @@ Feel free to reach out if you want to discuss programming, collaborate on a proj
 - **Email**: [pavartem769@gmail.com](mailto:pavartem769@gmail.com)  
 
 Looking forward to hearing from you! 😊
--->
