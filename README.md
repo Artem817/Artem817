@@ -5,15 +5,15 @@ I am a Software Engineering student constantly improving my programming skills. 
 ### 🌟 My Interests & Skills  
 Here are the technologies and areas I’m passionate about:
 
-- **Python** 🐍  
-- **Django** 🌐  
-- **FastAPI** ⚡  
-- **SQL** 📊  
-- **MongoDB** 🍃  
-- **PostgreSQL** 🐘  
-- **Machine Learning** 🤖  
-- **Algorithms** ⚙️  
-- **Statistics** 📈  
+- **Python** 
+- **Django** 
+- **FastAPI**  
+- **SQL**  
+- **MongoDB**  
+- **PostgreSQL** 
+- **Machine Learning** 
+- **Algorithms** 
+- **Statistics**  
 
 I’m always eager to learn more and apply my knowledge to real-world projects.  
 
